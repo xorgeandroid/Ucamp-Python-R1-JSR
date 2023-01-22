@@ -1,2 +1,2 @@
-# Ucamp-Python-R1-JSR
+# UCAMP-Python-R1-JSR
 Calculadora de IMC
